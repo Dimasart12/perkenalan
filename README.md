@@ -11,4 +11,4 @@ Hobi : Travelling dan Author Jurnal
 <br>
 IG : @arifnmuhamad
 <br>
-![alt text] (https://github.com/Dimasart12/perkenalan/blob/master/dimasss.jpg)
+![alt text](https://github.com/Dimasart12/perkenalan/blob/master/dimasss.jpg)
