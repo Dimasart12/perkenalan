@@ -1,14 +1,14 @@
 # perkenalan
-Nama : Muhamad Arifin
+Nama : Dimas Insan Rahmatullah
 <br>
-Tempat tanggal lahir : Bojonegoro. 05 Pebruari 1992
+Tempat tanggal lahir : Malang, 12 Maret 2004
 <br>
-Alamat asal : Perumda Blok BB 06 Sumbang Bojonegoro
+Alamat asal : Jl.Kedoyo Timur
 <br>
-Pendidikan terakhir : Magister Pendidikan Kejuruan
+Pendidikan terakhir : SMP
 <br>
-Hobi : Travelling dan Author Jurnal
+Hobi : musik,jelajah
 <br>
-IG : @arifnmuhamad
+IG : @dimasinsanr
 <br>
 ![alt text](https://github.com/Dimasart12/perkenalan/blob/master/dimasss.jpg)
